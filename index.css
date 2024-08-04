@@ -105,6 +105,18 @@ ul{
     color: white;
     scale: 1.05;
 }
+.welcome{
+    position: relative;
+    top: 30vh;
+    
+}
+.welcome h1{
+    color: white;
+}
+.welcome h1, .welcome p{
+    color: white;
+    text-align: center;
+}
 
 @media (max-width: 992px){
     
